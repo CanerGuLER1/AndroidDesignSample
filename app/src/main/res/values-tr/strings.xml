@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Park Car</string>
+    <string name="parkCarBaslik">Park Car</string>
+    <string name="ikincibaslık">Arabanızı\nGüvenle Alın</string>
+    <string name="butonyazi">Park kiralamak</string>
+    <string name="Acıklama">Güzel ve lüks arabalarınız için binlerce\ngüvenli yer sağlıyoruz</string>
+
+</resources>
